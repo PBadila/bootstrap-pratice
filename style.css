@@ -1,0 +1,17 @@
+.card{
+    border:none;
+}
+
+.img-box{
+    padding:1.25rem;
+}
+
+@include media-breakpoint-up(lg){
+    .feature{
+
+    }
+}
+.lg-space{
+    margin-top:60px;
+    margin-bottom:60px;
+}
